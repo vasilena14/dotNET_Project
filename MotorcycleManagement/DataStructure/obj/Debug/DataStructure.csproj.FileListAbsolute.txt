@@ -10,3 +10,15 @@ E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.S
 E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.xml
 E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.SqlServer.xml
 E:\MotoManagement\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.csproj.CopyComplete
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\bin\Debug\DataStructure.dll.config
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\bin\Debug\DataStructure.dll
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.dll
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.xml
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.csproj.CopyComplete
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.dll
+C:\Users\Василена\Desktop\dotNET_Project\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.pdb
