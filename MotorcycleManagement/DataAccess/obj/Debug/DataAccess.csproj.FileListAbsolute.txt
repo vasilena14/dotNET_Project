@@ -1,0 +1,17 @@
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\DataAccess.dll
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\DataAccess.pdb
+E:\MotoManagement\MotorcycleManagement\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\MotoManagement\MotorcycleManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\MotoManagement\MotorcycleManagement\DataAccess\obj\Debug\DataAccess.dll
+E:\MotoManagement\MotorcycleManagement\DataAccess\obj\Debug\DataAccess.pdb
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\DataAccess.dll.config
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\DataStructure.dll
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\EntityFramework.dll
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\DataStructure.pdb
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\DataStructure.dll.config
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\EntityFramework.xml
+E:\MotoManagement\MotorcycleManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\MotoManagement\MotorcycleManagement\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\MotoManagement\MotorcycleManagement\DataAccess\obj\Debug\DataAccess.Migrations.InitialCreate.resources
+E:\MotoManagement\MotorcycleManagement\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache

@@ -1,0 +1,12 @@
+E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\DataStructure.dll
+E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\DataStructure.pdb
+E:\MotoManagement\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+E:\MotoManagement\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+E:\MotoManagement\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.dll
+E:\MotoManagement\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.pdb
+E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\DataStructure.dll.config
+E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.dll
+E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.xml
+E:\MotoManagement\MotorcycleManagement\DataStructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\MotoManagement\MotorcycleManagement\DataStructure\obj\Debug\DataStructure.csproj.CopyComplete
